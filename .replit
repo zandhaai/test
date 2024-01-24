@@ -1,4 +1,4 @@
-run = "dotnet run"
+run = "dotnet run --project TestWebApplication"
 
 hidden = ["bin", "obj"]
 
